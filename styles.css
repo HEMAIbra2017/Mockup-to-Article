@@ -1,0 +1,10 @@
+/* add your CSS here */
+
+img{width:300px; padding:10px 20px   }
+.one{font-style: italic;}
+span{font-weight: bold;}
+h3{ padding:10px 20px }
+
+ul li{  list-style-type: none;  }
+body{ border:2px solid  }
+.two{border:1px solid ; padding: 10px 20px;  margin:10px 10px}
